@@ -1,4 +1,3 @@
-# challenge-python-AluraStore
 <h1> Praticando Python para Data Science: Challenge Alura Store <h1>
 
 ## Sobre
@@ -10,13 +9,15 @@ O código consiste na resposta ao desafio proposto no curso "Praticando Python p
 
 
 ## Tela Inicial do curso
-![Tela inicial do curso](https://github.com/user-attachments/assets/e93649e4-3112-4afa-bb3e-e55bb2cbfaf5)
+![Tela inicial do curso](https://github.com/user-attachments/assets/0ef28f49-e0a3-4bf1-b501-08e3da8c3e61)
+
 
 
 
 ## Pessoa desenvolvedora
 Brenda Assunção
 
+## Status
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 
